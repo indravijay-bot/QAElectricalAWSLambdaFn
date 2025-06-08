@@ -49,10 +49,10 @@ EMAIL_TO_1 /2 /3 ...
 PS_ID_1 /2 /3 ...
 PS_KEY_LIST_1 /2 /3 ...
 
-Project for 
+Project for :
 QA ELectricals (Airport west, Melbourne)
 renewables@qaelectrical.com.au
 
-🧑‍💻 Author
-Indravijaysinh Zala
+🧑‍💻 Author :
+Indravijaysinh Zala 
 zalaindravijaysinh50@gmail.com
